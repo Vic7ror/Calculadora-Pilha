@@ -30,3 +30,11 @@ C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED
 C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.CoreCompileInputs.cache
 C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.exe
 C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.pdb
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\bin\Debug\AtividadePilha.exe.config
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\bin\Debug\AtividadePilha.exe
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\bin\Debug\AtividadePilha.pdb
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.AssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\obj\Debug\AtividadePilha.exe.config
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\obj\Debug\AtividadePilha.exe
+C:\Users\Victor\Documents\GitHub\Calculadora-Pilha\AtividadePilha\obj\Debug\AtividadePilha.pdb

@@ -12,10 +12,10 @@ namespace AtividadePilha
         {
             Pilha p = new Pilha(100);
 
-            Console.WriteLine("(+) para somar       | ");
-            Console.WriteLine("(-) para diminuir    | ");
-            Console.WriteLine("(/) para dividir     | ");
-            Console.WriteLine("(*) para Multiplicar | ");
+            Console.WriteLine("(+) para somar       | \n" +
+                "(-) para diminuir    | \n" +
+                "(/) para dividir     | \n" +
+                "(*) para Multiplicar | ");
 
             for (int i = 0; i < 100; i++)
             {
