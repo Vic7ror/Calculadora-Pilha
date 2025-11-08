@@ -1,0 +1,32 @@
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\bin\Debug\AtividadePilha.exe.config
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\bin\Debug\AtividadePilha.exe
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\bin\Debug\AtividadePilha.pdb
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.exe
+H:\Visual Studio 2022\Projects\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\bin\Debug\AtividadePilha.exe.config
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\bin\Debug\AtividadePilha.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\bin\Debug\AtividadePilha.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.AssemblyReference.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.CoreCompileInputs.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\AtividadePilha\AtividadePilha\obj\Debug\AtividadePilha.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\bin\Debug\AtividadePilha.exe.config
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\bin\Debug\AtividadePilha.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\bin\Debug\AtividadePilha.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.AssemblyReference.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.CoreCompileInputs.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\bin\Debug\AtividadePilha.exe.config
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\bin\Debug\AtividadePilha.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\bin\Debug\AtividadePilha.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.AssemblyReference.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.csproj.CoreCompileInputs.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática1 - Pilha\AtividadePilha\obj\Debug\AtividadePilha.pdb
