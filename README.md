@@ -10,3 +10,20 @@ tela.
 Lenguage: C#
 
 ---------------------------------------------------------------------------------------------------------
+
+# Prints das funções em execução:
+
+1. Somando valores na fila.
+![Tela Inicial](/PrintsGifs/Soma.png)
+
+2. Subtraindo valores na fila.
+![Tela Inicial](/PrintsGifs/Subtracao.png)
+
+3. Dividindo valores na fila.
+![Tela Inicial](/PrintsGifs/Divisao.png)
+
+4. Multiplicando valores na fila.
+![Tela Inicial](/PrintsGifs/multiplicacao.png)
+
+5. Gif do aplicativo em funcionamento.
+![Tela Inicial](/PrintsGifs/GifCalculadoraPilha.gif)
